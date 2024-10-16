@@ -6,7 +6,7 @@ Esse é um pequeno guia extra-oficial ao da organização com dicas de onde come
 
 O Rio de Janeiro é uma cidade enorme e existem muitas coisas a fazer para todos os gostos. Desde lugares legais para ir com crianças, bares e gafieiras, rodas e quadras de samba, shows de rock, karaokês, passeios na natureza.
 
-Lugares que eu sei que tem comida vegana eu menciono no texto. Então, procure por "vagano", "vagana" ou "vegan".
+Lugares que eu sei que tem comida vegana eu menciono no texto. Então, procure por "vegano", "vegana" ou "vegan".
    
 **Mapa com os lugares:** https://www.google.com/maps/d/viewer?mid=1afypyitj0uIfYMTQARqcURXBN2KXQ44&ll=-22.941001489043565%2C-43.21021989999999&z=12
 
