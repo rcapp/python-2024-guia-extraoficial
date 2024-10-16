@@ -7,12 +7,10 @@ Esse é um pequeno guia extra-oficial ao da organização com dicas de onde come
 O Rio de Janeiro é uma cidade enorme e existem muitas coisas a fazer para todos os gostos. Desde lugares legais para ir com crianças, bares e gafieiras, rodas e quadras de samba, shows de rock, karaokês, passeios na natureza.
 
 Lugares que eu sei que tem comida vegana eu menciono no texto. Então, procure por "vagano", "vagana" ou "vegan".
+   
+**Mapa com os lugares:** https://www.google.com/maps/d/viewer?mid=1afypyitj0uIfYMTQARqcURXBN2KXQ44&ll=-22.941001489043565%2C-43.21021989999999&z=12
 
-Mapa: 
-
-
-
-# Onde comer
+## Onde comer:
 
 Como alguém que não nasceu e cresceu aqui no Rio, comer aqui é difícil: é caro, muitas vezes ruim, os cardápios são quase sempre os mesmos. Então estou incluindo os que mais me agradam e que possuem um bom custo-benefício.
 
@@ -30,9 +28,11 @@ Como alguém que não nasceu e cresceu aqui no Rio, comer aqui é difícil: é c
 
   É caro, mas vale o preço.
 
-  End.: Rua Conde de Bonfim, 716 - Tijuca
-  Tel.: (21) 3281-1003
-  Horário: Seg. a Sex. das 09h00 às 21h00, Sáb. das 09h00 às 18h00.  
+  - End.: Rua Conde de Bonfim, 716 - Tijuca
+  - Tel.: (21) 3281-1003
+  - Horário: 
+    - Seg. a Sex. das 09h00 às 21h00
+    - Sáb. das 09h00 às 18h00.  
     
 ### Brother's Pizza
   Delivery (iFood, delivery próprio e telefone) e salão
@@ -43,10 +43,10 @@ Como alguém que não nasceu e cresceu aqui no Rio, comer aqui é difícil: é c
 
   O que pedidr individual? Em termos de custo, vale mais a pena o calzone por ter um tamanho razoável. A menor pizza tem 4 fatias, mas acabam não valendo a pena. 
 
-  Tel.: (21) 2288-5496 
-  End.: Rua Barão de Mesquita, 616
-  WhatsApp: (21) 99832-2592
-  Horário: Terça (18h até 23h) a Domingo (18h até 22h)
+  - Tel.: (21) 2288-5496 
+  - End.: Rua Barão de Mesquita, 616
+  - WhatsApp: (21) 99832-2592
+  - Horário: Terça (18h até 23h) a Domingo (18h até 22h)
     
 ### Domenica    
   Delivery (iFood, delivery próprio e telefone) e salão
@@ -57,11 +57,11 @@ Como alguém que não nasceu e cresceu aqui no Rio, comer aqui é difícil: é c
 
   Possui opção vegana? Não lembro, mas acho que sim.
 
-  Tel.: (21) 3577-0009 
-  End.: Rua São Francisco Xavier, 18 - Tijuca
-  WhatsApp:
-  Instagram: @domenicapizzaria
-  Horário: Todos os dias, das 18h até 23h
+  - Tel.: (21) 3577-0009 
+  - End.: Rua São Francisco Xavier, 18 - Tijuca
+  - WhatsApp:
+  - Instagram: @domenicapizzaria
+  - Horário: Todos os dias, das 18h até 23h
     
 ### Mr. Pizza
   Delivery (iFood, telefone e próprio) e salão (algumas unidades)
@@ -69,11 +69,11 @@ Como alguém que não nasceu e cresceu aqui no Rio, comer aqui é difícil: é c
   Rede de franquias, mas a pizza é razoável e melhor que Domino's e Pizza Hut. 
   Possui unidades em Shoppings e de rua, mas sempre pedi entrega. Tem um bom custo benefício pela proposta de ser mais próxima a uma fastfood. O Calzone não vale a pena, é quase um pastel de forno. A massa da pizza é fina e crocante.
 
-  Tel.: (21) 2535-3333 (unidade Vila Isabel) 
-  End.: Blvd. 28 de Setembro, 245 - Vila Isabel
-  WhatsApp: (21) 2264-7979
-  Instagram: @misterpizzabrasil
-  Horário: Todos os dias, das 11h até 23h
+  - Tel.: (21) 2535-3333 (unidade Vila Isabel) 
+  - End.: Blvd. 28 de Setembro, 245 - Vila Isabel
+  - WhatsApp: (21) 2264-7979
+  - Instagram: @misterpizzabrasil
+  - Horário: Todos os dias, das 11h até 23h
 
 ### Forneria Original
 
@@ -89,8 +89,8 @@ Delivery e salão
 
 Pizzaria de bairro, é bem saborosa e possui bom custo benefício. Pizzas a lenha e sem muita estravagância nos sabores das pizzas.
 
-Tel.: (21) 3032-6999
-End.: R. Domício da Gama, 76 - Tijuca, Rio de Janeiro - RJ, 20260-150
+- Tel.: (21) 3032-6999
+- End.: R. Domício da Gama, 76 - Tijuca, Rio de Janeiro - RJ, 20260-150
 Site: https://ofornopizza.com.br/
    
 ### Oba-Oba
@@ -116,13 +116,16 @@ Delivery e salão
 
 Bar que deu origem ao Mahamud, ainda possui um restaurante de bifê e alacarte. É caro, mas possui um variedade de comidas que não são comuns em Restaurantes brasileiros. Possui mais de uma unidade além da Tijuca, inclusive, no centro.
 
-End.: Rua Evaristo da Veiga, 22 - Centro (11h30 às 15h30)
-      R. Soriano de Souza, 17 - Tijuca 
-        Seg. a Qua.: 11h30 às 16h30
-        Qui. a Sáb.: 11h30 às 23h00
-        Dom.: 11h30 a 17h30
+- End.: 
+  - Rua Evaristo da Veiga, 22 - Centro (11h30 às 15h30)
+  - R. Soriano de Souza, 17 - Tijuca 
+    
+  - Horários (Tijuca):
+    - Seg. a Qua.: 11h30 às 16h30
+    - Qui. a Sáb.: 11h30 às 23h00
+    - Dom.: 11h30 a 17h30
         
-Tel.: (21) 96749-0946
+- Tel.: (21) 96749-0946
     
 ### Mahmud 
 Delivery (iFood)
@@ -137,13 +140,13 @@ Não é o restaurante mais barato, mas compensa. Indicaria as kebabes/schwarnas 
 
     
 ### Macadesh
-Delivery (instagram, telefone e iFood) 
+Delivery (- Instagram, telefone e iFood) 
 Esfirras e quibes
 
 Restaurante que trabalha com esfirras abertas e quibes de forno/fritos. Há opções veganas, com massas preparadas sem leite. As esfirras são ótimas em tamanho e sabor pelo preço pedido. Geralmente, peço 3 esfirras. Das esfirras veganas, a de abobrinha é a que mais me agrada (atenção porque também existe esse sabor com a massa tradicional). Das convencionais, gosto bastante da queijo branco temperado. O quibe simples é bem saboroso, mas pode não ser pedido. 
     
-Instagram: https://www.instagram.com/makadeshesfiharia/
-Tel.: (21) 7470-3728 
+- Instagram: https://www.instagram.com/makadeshesfiharia/
+- Tel.: (21) 7470-3728 
 
 ### Kebab Shop
 
@@ -152,9 +155,10 @@ Kebabes
     
 Lanchonete de franquia no esquema "você escolhe os ingredientes e uma proteína". Possui lanches veganos, já que é possível montar. Tem um custo OK, começando em 23,90 reais até 36,90, com os lanches podendo acompanhar bebida e fritas. Possui unidades no centro e Tijuca. Os lanches são saborosos, vale se quiser algo mais imediato ou um pouco mais em conta.
 
-End.: R. São José, 35 – Centro, Rio de Janeiro – RJ
-      R. da Alfândega, 73 – Centro, Rio de Janeiro – RJ
-      R. Barão de Mesquita, 314 Tijuca,Rio de Janeiro
+- End.: 
+  - R. São José, 35 – Centro, Rio de Janeiro – RJ
+  - R. da Alfândega, 73 – Centro, Rio de Janeiro – RJ
+  - R. Barão de Mesquita, 314 Tijuca,Rio de Janeiro
 
 ### Al Khayam Restaurante
 
@@ -163,7 +167,7 @@ Salão e retirada
 Restaurante mais tradicional, sem serviço de delivery. Possui variedade de pratos, mas não é o melhor restaurante sírio da cidade, até pelo custo. Tem esfirras fechadas em tamanhos bons. Dos pratos quentes, comi apenas o kebab de cordeiro.
 
 
-End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
+- End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
 
     
     
@@ -190,20 +194,21 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
     
   Próximo ao fim de semana, vale telefonar para fazer reservas. É um pouco difícil de parar no entorno, mas nada inviável.
   
-  End.: R. Dona Zulmira, 111 - Vila Isabel
-  Instagram: https://www.instagram.com/cinebotequim2/
+  - End.: R. Dona Zulmira, 111 - Vila Isabel
+  - Instagram: https://www.instagram.com/cinebotequim2/
   
-  Ter. a Qui. das 17h às 0h
-  Sexta e Sábado das 12h às 0h
-  Domingo das 12h às 22h
+  - Horarios: 
+    - Ter. a Qui. das 17h às 0h
+    - Sexta e Sábado das 12h às 0h
+    - Domingo das 12h às 22h
   
   
   #### Bar da gema
   
   Possui o cardápio típico de um botequim, com pastéis, salgados de massa (ex: coxinha), frituras, caldos e refeições. Apesar de ser um bar com uma proposta mais tradicional, tem pratos interessantes como risotos. Tem opções veganas, mas é bom consultar no dia antes de ir porque não é sempre que estão servindo. Das refeições, só comi o risoto de cogumelos. Aos fins de semana é bom ligar para reservar.
   
-  End.: Rua Dona Zulmira, 134, Maracanã.
-  Instagram: https//www.instagram.com/bardagema/
+  - End.: Rua Dona Zulmira, 134, Maracanã.
+  - Instagram: https//www.instagram.com/bardagema/
   
   
   #### Baródromo
@@ -212,16 +217,16 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   O bar fica em frente à Praça Paris, tendo uma quadra e um espaço para crianças. 
   
-  É um pouco difícil de parar no entorno, então, é melhor não ir de carro. Possui agenda de eventos semanais, vale conferir no instagram do bar.
+  É um pouco difícil de parar no entorno, então, é melhor não ir de carro. Possui agenda de eventos semanais, vale conferir no - Instagram do bar.
 
-  Horários:
-    Ter. a Qui. das 17 à 00h
-    Sex. das 17 à 1h
-    Sáb. das 12h à 1h
-    Dom. e feriados das 12h às 22h
+  - Horários:
+    - Ter. a Qui. das 17 à 00h
+    - Sex. das 17 à 1h
+    - Sáb. das 12h à 1h
+    - Dom. e feriados das 12h às 22h
 
-  End.: Rua Dona Zulmira, 41 - Maracanã
-  Instagram: https://www.instagram.com/barodromo/
+  - End.: Rua Dona Zulmira, 41 - Maracanã
+  - Instagram: https://www.instagram.com/barodromo/
   
   #### Bar do escadinha
   
@@ -230,8 +235,10 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   Vale se for pra beber e jogar ideia fora, não é um bar de gastronomia. Ao lado, tem bares com pastéis de qualidade e uma hamburgueria com lanches razoáveis no sabor e preço. Você pode pedir nesses lugares e comer no Escadinha sem problemas.
   
    
-  End.: Rua dos Artistas, 164 - Vila Isabel
-  Horários: Seg-qui 8h às 0h, sex-dom 8h às 2h
+  - End.: Rua dos Artistas, 164 - Vila Isabel
+  - Horários: 
+    - Seg-qui 8h às 0h 
+    - sex-dom 8h às 2h
 
   #### Escritório Bar e Lanchonete
   
@@ -242,7 +249,7 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   Bar bem tradicional nessa região da cidade, tendo seus pastéis como um dos carros chefes. Tem chopes e cervejas, talvez sendo mais convidativo pra quem procura um pouco mais de conforto. 
   
-  End.: R. dos Artistas, 130 - Tijuca, Rio de Janeiro - RJ, 20511-130
+  - End.: R. dos Artistas, 130 - Tijuca, Rio de Janeiro - RJ, 20511-130
   
   
   #### 1951 Comércio de chopes
@@ -253,8 +260,8 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   Os hamburguers são gostosos e acompanham batata frita.
   
-  End.: R. Dr. Otávio Kelly, 20 - Tijuca
-  Tel.: (21) 3988-0951
+  - End.: R. Dr. Otávio Kelly, 20 - Tijuca
+  - Tel.: (21) 3988-0951
   
   
   #### O Rei do bacalhau
@@ -267,11 +274,11 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   Se quiser somente bolinho de bacalhau, tem outros lugares pra comer nessa mesma região. Se você não liga pra lugares com higiene suspeita, o bar Twistinho (R. Uruguai, 380) tem bolinhos bons - mas assim, tem que não ligar mesmo. 
   
-  Tel.: (21) 2238-7667
-  End.: Praça Cmte. Xavier de Brito, 10
-  Horários: 
-    terça a sábado: 09h às 00h
-    domingo: 08h às 00h
+  - Tel.: (21) 2238-7667
+  - End.: Praça Cmte. Xavier de Brito, 10
+  - Horários: 
+    - terça a sábado: 09h às 00h
+    - domingo: 08h às 00h
   
   #### Bar Madrid
   
@@ -279,8 +286,8 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   Famoso, fica na região da Afonso Pena. Nunca fui, mas tô indicando antes que algum Tijucano venha reclamar. Tem pratos e petiscos trdicionais da Espanha.
   
-  Tel.: (21) 3594-8526
-  End.: R. Alm. Gavião, 11 - Loja G
+  - Tel.: (21) 3594-8526
+  - End.: R. Alm. Gavião, 11 - Loja G
   
   
   #### Momo
@@ -293,13 +300,13 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   É perto da praça Xavier de Brito, então, dá pra ir com criança e ficar um tempo na pracinha.
   
-  End.: Rua General Espirito Santo Cardoso, 50 - Tijuca
-  Tel.: (21) 2570-9389
-  Horários: 
-    segunda-feira das 12h às 23h
-    terças: fechado
-    quarta-feira a sábado: 12h às 23h
-    domingo: 12h às 18h
+  - End.: Rua General Espirito Santo Cardoso, 50 - Tijuca
+  - Tel.: (21) 2570-9389
+  - Horários: 
+    - segunda-feira das 12h às 23h
+    - terças: fechado
+    - quarta-feira a sábado: 12h às 23h
+    - domingo: 12h às 18h
   
   #### Praça Afonso Pena
   
@@ -307,7 +314,7 @@ End.: R. do Ouvidor, 16 - Centro (não aconcelho ir de carro)
   
   Faz um tempo que não vou, mas a barraca de cervejas é uma boa pedida. Tem rótulos artezanais da região e cidades próximas (se tiver, a Red Ale da São Bartolomeu é boa demais). De vez em quando tem cozinha no trailer, com sanduíches e petiscos - gosto muito do de lombo.
  
-  End.: R. Dr. Satamini, 160 - Tijuca
+  - End.: R. Dr. Satamini, 160 - Tijuca
  
 
  ## Cozinha japonesa, chinesa, cantonesa
@@ -321,14 +328,14 @@ Salão, não tem informação sobre entregas.
 
 Façam reserva, tá sempre cheio com gente esperando mesa. Nunca nem entrei, mas não deve ter nem Ramen/Lamen. 
 
-End.: R. Uruguai, 218 - Andaraí
-Tel.: (21) 3802-0724
+- End.: R. Uruguai, 218 - Andaraí
+- Tel.: (21) 3802-0724
    
 ###  Treco do lado do Temakeria que não tem no Google Maps
 
 Literalmente colado, tem um menorzinho que tá ali desde que me mudei pra cá. Pessoal que perde a paciência vai pra ele. Também nunca nem entrei.
 
-End.: R. Uruguai, 218 (loja B) - Andaraí
+- End.: R. Uruguai, 218 (loja B) - Andaraí
 
 ### Meng
 
@@ -342,12 +349,12 @@ Costuma encher nos dias de samana durante a noite, mas aos sábados e domingos �
 
 É caro? Sei-lá! Eu acho um pouco, mas pelo menos entrega uma comida de qualidade.
 
-End.: R. Uruguai, 262 - Andaraí
-Tel.: (21) 2570-9234
-Horários: 
-    Quarta à sexta: 18h às 23h
-    Sábado: 12h às 23h 
-    Domingo: 12h às 22h30
+- End.: R. Uruguai, 262 - Andaraí
+- Tel.: (21) 2570-9234
+- Horários: 
+    - Quarta à sexta: 18h às 23h
+    - Sábado: 12h às 23h 
+    - Domingo: 12h às 22h30
         
 ### Goru
 
@@ -355,8 +362,8 @@ Vejo movimento, mas menos do que o tal Temakeria. Nunca tive vontade de entrar p
 
 Fiquem atentos: a entrada é na loja colada na oficina, o portão verde e a porta são a cozinha. 
 
-Tel.: (21) 9350-00546
-End.: R. Uruguai, 254 - Andaraí
+- Tel.: (21) 9350-00546
+- End.: R. Uruguai, 254 - Andaraí
     
 ### Xiaoxian
 Delivery e salão 
@@ -365,9 +372,9 @@ Cozinha chinesa e cantonesa. Vem tudo em quantidades enormes, mesmo as refeiçõ
 
 O preço é um pouco salgado, porém, acompanha a quantidade, qualidade e o sabor.
 
-Tel.: (21) 2238-8088
-End.: R. Uruguai, 131 - Andaraí
-Horários: de terça a domingo das 12h às 21h30 
+- Tel.: (21) 2238-8088
+- End.: R. Uruguai, 131 - Andaraí
+- Horários: de terça a domingo das 12h às 21h30 
     
 ## Cozinha africana 
 
@@ -375,15 +382,15 @@ Horários: de terça a domingo das 12h às 21h30
 
 Restaurante com uma cozinha com raíz e influências africanas. Fui uma única vez e não tenho nenhum prato específico para indicar. Tem opções veganas e vegetarianas. O preço é razoável, mas com um pé mais próximo do caro na média.
 
-Horários:  
-    Quinta: das 16h às 00h
-    Sexta e sábado: das 12h às 00h
-    Domingos: das 12h às 18h
+- Horários:  
+    - Quinta: das 16h às 00h
+    - Sexta e sábado: das 12h às 00h
+    - Domingos: das 12h às 18h
 
-End.: R. Barão de Iguatemi, 379 - Praça da Bandeira (Mercado Casarão)
-Tel.: (não achei)
+- End.: R. Barão de Iguatemi, 379 - Praça da Bandeira (Mercado Casarão)
+- Tel.: (não achei)
 Linktree: https://linktr.ee/Didabar
-Instagram: https://www.instagram.com/didabar.erestaurante/
+- Instagram: https://www.instagram.com/didabar.erestaurante/
    
 
 ## Beber 
@@ -459,17 +466,17 @@ O Museu Nacional que pegou fogo fica lá, mas ainda está fechado.
 
 Costuma ter exposições de arte contemporânea, de artistas internacionais e nacionais. A curadoria é boa e às vezes tem exposições que precisa reservar a entrada com antecedência. Tem um café dentro do prédio.
 
-End.: Rua Primeiro de Março, 66 – Centro
-Tel.: (21) 3808-2020 (dias úteis, 9h às 18h) 
-Horários: Quarta a segunda, de 9h às 20h
+- End.: Rua Primeiro de Março, 66 – Centro
+- Tel.: (21) 3808-2020 (dias úteis, 9h às 18h) 
+- Horários: Quarta a segunda, de 9h às 20h
             
             
 ### MAM 
 
 museu de arte moderna, trás exposições sazonais e de acervo prórpio. Tem um restaurante na cobertura que não lembro se pode ver sem estar no restaurante. O restaurante (cozinha contemporânea quando fui) é caro, só vale se alguém estiver pagando teu almoço.
 
-End.: Av. Infante Dom Henrique, 85 - Parque do Flamengo
-Tel.: (21) 3883-5600
+- End.: Av. Infante Dom Henrique, 85 - Parque do Flamengo
+- Tel.: (21) 3883-5600
        
         
 ## Karaokês e afins:
@@ -480,21 +487,21 @@ Tel.: (21) 3883-5600
    
 Nunca joguei nada lá, lanchei e não gostei. Mas sei-lá! Vai que melhorou e tem alguém realmente afim de jogar algo!
         
-O lugar também possui eventos semanais, inclusive karaokê. A agenda é publicada no Instagram da loja. 
-End.: Rua Uruguai, 266
-Horários: Seg. a Dom. 17h às 0h
-Instagram: https://www.instagram.com/ludogrill/
+O lugar também possui eventos semanais, inclusive karaokê. A agenda é publicada no - Instagram da loja. 
+- End.: Rua Uruguai, 266
+- Horários: Seg. a Dom. 17h às 0h
+- Instagram: https://www.instagram.com/ludogrill/
 
         
 #### A Game of Boards 
 
 Fui faz um século. O acervo era bacaninha e a comida era boa. Ficava no Catete, mas hoje é em Botafogo.
 
-End.: Rua da Passagem, 142 - Botafogo
-Instagram: https://www.instagram.com/gob.ludobar
-Horários: 
-    Terça á Sábado 15h às 23h 
-    Domingo e Feriado 14h às 22h
+- End.: Rua da Passagem, 142 - Botafogo
+- Instagram: https://www.instagram.com/gob.ludobar
+- Horários: 
+    - Terça á Sábado 15h às 23h 
+    - Domingo e Feriado 14h às 22h
 
 ### Karaokês:
 #### Feira de São Cristóvão:
@@ -502,8 +509,8 @@ Aqui fica um aviso - para pessoas sensíveis a barulhos intensos e constante ou 
 
 Na Feira de muitos karaokês de botequim, um competindo com o outro em volume. Se for lá, recomendo o Karaokê Bazar da Cantoria ()
 
-End.: Campo de São Cristóvão (lá dentro: Rua Paraíba, lj 38 )
-Tel.: (21) 2580-0521
+- End.: Campo de São Cristóvão (lá dentro: Rua Paraíba, lj 38 )
+- Tel.: (21) 2580-0521
   
 #### Astros e estrelas 
 
@@ -511,17 +518,17 @@ Fica no centro, é bem pé sujo, não tem cozinha, mas pode pedir iFood. Só vá
 
 A cerveja já foi mais em conta, segundo relatos recentes. Beba na Lapa e vá no fim do rolê. Se você não for dos álcools, lá tem água.
 
-End.: Rua do Senado, 175, Centro
-Tel.: (21) 95903-2877
+- End.: Rua do Senado, 175, Centro
+- Tel.: (21) 95903-2877
 
 
 #### Big Ben Pub
 
 Aqui é o oposto dos dois acimas. Bar na Zona Sul e com cerveja que custa um engradado - a Guiness é 70 conto. Nunca fui, tô colocando por colocar. De acordo com o site, fecham pra eventos privados, então, ligue antes de ir.
 
-End.: R. Muniz Barreto, 374 - Botafogo
-Site: https://linktr.ee/bigbenpub 
-Instagram: https://www.instagram.com/bigbenpubrj
+- End.: R. Muniz Barreto, 374 - Botafogo
+- Site: https://linktr.ee/bigbenpub 
+- Instagram: https://www.instagram.com/bigbenpubrj
         
 
 ### Samba e afins fora do circuito mais óbvio:
@@ -530,10 +537,11 @@ Instagram: https://www.instagram.com/bigbenpubrj
 
 Às segundas, no Clube Renascença, tem essa tradicional roda de samba. O clube era/é reduto do movimento negro. Do lado de fora tem espetinho pra comer. Não sou do samba, então, não posso falar muito sobre, mas meus amigos gostam.
 
-Horário: Segunda – de 16 às 21 horas
-Entrada: mulher: R$ 20,00 / homem: R$ 20,00
-End.: Barão de São Francisco, 54
-Tel.: (21) 3253-2322 
+- Horário: 
+  - Segunda: de 16 às 21 horas
+- Entrada: 20,00
+- End.: Barão de São Francisco, 54
+- Tel.: (21) 3253-2322 
     
 #### Quadra da Salgueiro
     
@@ -541,17 +549,17 @@ Quadra da escola de samba. As escolas costumam fazer eventos e terem ensaios abe
     
 Novamente, nunca fui porque não sou do samba, mas moro na região e passo pela rua deles de vez em quando: tem espetinhos, ambulantes e barracas. De vez em quando, na esquina da Rua Silva Teles com a Maxwell, tem uma barraca de acarajé - as massas tem camarão, então, não rola se for alérgico ou não comer carnes. Seguindo a Silva Teles até a Barão de Mesquita (final da rua), tem podrão com um custo OK.
 
-End.: Rua Silva Teles, 104 - Andaraí
-Tel.: (21) 3172-0518
-Instagram: https://www.instagram.com/salgueirooriginal/
+- End.: Rua Silva Teles, 104 - Andaraí
+- Tel.: (21) 3172-0518
+- Instagram: https://www.instagram.com/salgueirooriginal/
     
 #### Quadra da Unidos de Vila Isabel
     
 Outra tradicional e famosa escola de samba da região, bem próxima da Salgueiro. Promove alguns eventos e ensaios abertos. Vila Isabel é bem tradcional na boemia, samba e na cidade no geral. Próximo da quadra há bares e restaurantes. Também tem uma praça ali perto, com quadra, pista de skate (sério), barracas e alguns botequins.
 
-End.: Boulevard 28 de Setembro, 382 – Vila Isabel
-Tel.: (21) 3734-2064 
-Instagram: https://www.instagram.com/unidosdevilaisabel
+- End.: Boulevard 28 de Setembro, 382 – Vila Isabel
+- Tel.: (21) 3734-2064 
+- Instagram: https://www.instagram.com/unidosdevilaisabel
 
 #### Botequim Vaca atolada
 
@@ -561,8 +569,8 @@ Uma observação muito importante: o local é muito pequeno, quando lota, fica b
 
   "Mas o que você define como cheio?" - nível ônibus/trem lotado em horário de pico. 
   
-  End.: Av. Gomes Freire, 533 - Lapa
-  Instagram: https://www.instagram.com/vacaatolada.oficial/  
+  - End.: Av. Gomes Freire, 533 - Lapa
+  - Instagram: https://www.instagram.com/vacaatolada.oficial/  
     
 ### LGBTQIA+
 
@@ -570,17 +578,17 @@ Uma observação muito importante: o local é muito pequeno, quando lota, fica b
 
 Parafraseando fontes seguras: é um palco famoso desde os anos 90, e lá tem concursos como o The Queen Brasil e Soudragstar. Como não é uma casa focada só nisso, vale a pena olhar a agenda do local e conferir com as produtoras @soudonadeconcurso e @samararios.
 
-Tel.: (21) 3197-4313 (de seg. a sex. das 09h às 20h)
-End.: Teatro Rival Petrobras - Rua Álvaro Alvim, 33
+- Tel.: (21) 3197-4313 (de seg. a sex. das 09h às 20h)
+- End.: Teatro Rival Petrobras - Rua Álvaro Alvim, 33
 
 
 #### Pink Flamingo
     
 É uma boate/balada LBTQIA+. Música eletrônica/pop ALTA, pessoas se pegando, álcool, festas temáticas. Tem sempre drags andando por lá, às vezes como DJs, quase sempre com performance, de vez enquando com shows. Como sou idoso demais e agorafóbico demais pra ambientes fechados com muita gente, nunca fui, mas as mesmas fontes seguras me garantem que é bom pra quem curte.  
 
-End.: Rua Raul Pompeia, 102 - Copacabana
-Instagram: https://www.instagram.com/pinkflamingorio/
-Linktree: https://linktr.ee/pinkflamingorio
+- End.: Rua Raul Pompeia, 102 - Copacabana
+- Instagram: https://www.instagram.com/pinkflamingorio/
+- Linktree: https://linktr.ee/pinkflamingorio
 
     
 ### Shows e afins
@@ -590,8 +598,8 @@ Linktree: https://linktr.ee/pinkflamingorio
 Tem eventos musicais e de espetáculos. Por ser um teatro com uma curadoria menos comercial, vale conferir os shows da semana.
 
 
-Tel.: (21) 3197-4313 (de seg. a sex. das 09h às 20h)
-End.: Teatro Rival Petrobras - Rua Álvaro Alvim, 33
+- Tel.: (21) 3197-4313 (de seg. a sex. das 09h às 20h)
+- End.: Teatro Rival Petrobras - Rua Álvaro Alvim, 33
 
 #### Audiorebel
     
@@ -599,30 +607,29 @@ Casa de shows menores e do circuito alternativo. Vai desde rap, rock até musica
 
 Costuma ter pequenos festivais, mas não tem nenhum para essas próximas semanas. Faz tempo que não vou lá, mas por ser um ambiente pequeno, é bom pontuar que pode ser um pouco claustrofóbico para alguns. Também não recomendo ir se não tiver banda, ir só pelo bar. 
 
-End.: Rua Visconde de Silva 55 - Botafogo
-Tel.: (21) 98896-5972
-Instagram: https://www.instagram.com/audiorebel/
+- End.: Rua Visconde de Silva 55 - Botafogo
+- Tel.: (21) 98896-5972
+- Instagram: https://www.instagram.com/audiorebel/
 
 #### Circo Voador
     
 Casa de shows tradicional do Rio de Janeiro. Atualmente está na Lapa, então é comum beber antes ou depois do show na Lapa. Costuma ter um calendário bem diversificado. Porém, não tem nada muito interessante (pra mim) nesses próximos dias, mas tem Roberta Sá (sexta) e Supercombo (sábado). Dia 13/10 e 12/10 teve Marina Silva de graça, mas nem gosto dela.
 
-Tel.: (21) 2533-0354
-End.: R. dos Arcos, s/n
-Site: https://www.circovoador.com.br/
-Agenda: https://www.circovoador.com.br/agenda
+- Tel.: (21) 2533-0354
+- End.: R. dos Arcos, s/n
+- Site: https://www.circovoador.com.br/
+- Agenda: https://www.circovoador.com.br/agenda
 
 #### Fundição Progresso
 
 Também na Lapa, quase colado no Circo. Costuma ter shows maiores em termos de público que o Circo e alguns eventos fixos. Nessa também não tenho como ajudar na curadoria! Vejam a agenda.
 
 Agenda: https://fundicaoprogresso.com.br/Programacao
-End.: Rua dos Arcos, 24
-Tel.: (21) 3416-7793
+- End.: Rua dos Arcos, 24
+- Tel.: (21) 3416-7793
 
 
 ## Cafés
-
 ### Conversatório
 
 Café/Bristô que oferece café da manhã, almoço e café da tarde. Os pratos são por dia, sendo servidos individualmente. Possui massas, frutos do mar e carnes. Até onde me lembro, não há opções veganas ou vegetarianas. 
@@ -631,8 +638,9 @@ O café (a bebida) é bom, servido coado ou expresso. Tem variedade de chás, ma
 
 É caro? É. Mas vale a pena, ainda mais pra mim que acho os doces cariocas horríveis - excessivamente doces e com o mesmo gosto pasteurizado, até mesmo em outros cafés caros e em bairros de elite tradicional e novos ricos. 
 
-End.: R. José Higino, 156 - Tijuca
-Horários: 
-  Ter. a Sex: 9h às 18h
-  Sábado e Feriados: 9h às 17h
-Instagram: https://www.instagram.com/conversatorio_rj/
+- End.: R. José Higino, 156 - Tijuca
+- Tel.: (21) 97282-5678
+- Horários: 
+  - Ter. a Sex: 9h às 18h
+  - Sábado e Feriados: 9h às 17h
+- Instagram: https://www.instagram.com/conversatorio_rj/
